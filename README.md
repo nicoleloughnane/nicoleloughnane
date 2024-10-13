@@ -19,10 +19,9 @@ Hi 👋 My name is Nicole
 Software Developer
 ------------------
 
-I am a student at Grand Canyon University (GCU) and set to graduate in Summer of 2023 with a Bachelor of Science in Software Development.
-
-* 🧠  I'm learning cloud hosting on major cloud providers (AWS, Azure, Heroku, and Google Cloud)
-* ⚡  I am looking for an entry level position or internship
+Hello! I am a Software Developer and I graduated Grand Canyon University (GCU) in June 2023 with a Bachelor of Science in Software Development. 
+I am passionate about UI/UX design and web development. I enjoy making programs that are simple and intuitive to use. My largest solo project in which I put these skills into practice was my senior capstone called Daily Faith Journal. It uses the MEVN technology stack (MongoDB, Express, Vue, and Node.js).
+I am most experienced in JavaScript and its associated frameworks such as Vue.js, React.js, and Angular.js.
 
 ### Skills
 
