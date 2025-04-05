@@ -19,9 +19,7 @@ Hi 👋 My name is Nicole
 Software Developer
 ------------------
 
-Hello! I am a Software Developer and I graduated Grand Canyon University (GCU) in June 2023 with a Bachelor of Science in Software Development. 
-I am passionate about UI/UX design and web development. I enjoy making programs that are simple and intuitive to use. My largest solo project in which I put these skills into practice was my senior capstone called Daily Faith Journal. It uses the MEVN technology stack (MongoDB, Express, Vue, and Node.js).
-I am most experienced in JavaScript and its associated frameworks such as Vue.js, React.js, and Angular.js.
+Hello! I am a UX/UI designer who specializes in pioneering new frontend projects in the defense and intelligence space to improve user experiences by filling gaps where needed, or by modernizing legacy UIs. My passion lies in learning user needs and translating them into user-centered experiences and well-rounded documentation.
 
 ### Skills
 
@@ -51,10 +49,9 @@ I am most experienced in JavaScript and its associated frameworks such as Vue.js
 
 <p align="left"> <a href="https://www.github.com/nicoleloughnane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nicoleloughnane"><img src="https://github-readme-stats.vercel.app/api?username=nicoleloughnane&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicoleloughnane's GitHub stats" /></a>
+<!--<a href="http://www.github.com/nicoleloughnane"><img src="https://github-readme-stats.vercel.app/api?username=nicoleloughnane&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicoleloughnane's GitHub stats" /></a>-->
 
 <a href="https://github.com/nicoleloughnane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleloughnane&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
