@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Nicole
 =======================
 
-Software Developer
+Software Engineer
 ------------------
 
 Hello! I am a UX/UI designer who specializes in pioneering new frontend projects in the defense and intelligence space to improve user experiences by filling gaps where needed, or by modernizing legacy UIs. My passion lies in learning user needs and translating them into user-centered experiences and well-rounded documentation.
@@ -43,12 +43,6 @@ Hello! I am a UX/UI designer who specializes in pioneering new frontend projects
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/nicoleloughnane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 
 <b>My GitHub Stats</b>
 
